@@ -4,13 +4,13 @@ title = "Club Classes and Labs"
 
 #### Beginner Level ####
 
-* [Linux Scripting and Intro to GDB]( )  
+* [Linux Scripting and Intro to GDB](https://www.fweefwop.club/activities/)  
 Rick's cyber series, including scripting and GDB. 
 
-* [Web Programming]()   
+* [Web Programming](https://www.fweefwop.club/activities/)   
 For students who are interested in learning web programming.    
 
-* [TryHackMe]()   
+* [TryHackMe](https://www.fweefwop.club/activities/)   
 For beginner level, start enroll in "Learning Paths". Go ahead with "COMPLETE BEGINNER" and finish "Intro to Research" and "Linux Fundamentals".     
 
 
