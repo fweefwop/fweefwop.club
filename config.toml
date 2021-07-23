@@ -1,0 +1,104 @@
+baseURL = "/"
+languageCode = "en-us"
+#title = "Fweefwop"
+theme = "soho"
+
+[params]
+title = "Fweefwop Club"
+description = ""
+# gravatar = "soho@example.com"
+images = ["images/profile.jpg"]
+profilePicture = "images/profile.jpg"
+copyright = "Fweefwop Cyber Club"
+#license = ""
+#licenseURL = "https://creativecommons.org/licenses/by-sa/4.0"
+builtWith = true
+ordersectionsby = "weight"
+mainSections = ["home"]
+
+## Set custom theme color.
+themeColor = "#7A259E"
+
+## Set custom CSS and/or JS to override site defaults.
+customCss = ["css/blog.css"]
+customJs = ["js/blog.js"]
+
+disable_Share = true
+
+## Set as many as you want.
+[[params.socialIcons]]
+icon = "fa-github"
+title = "GitHub"
+url = "https://github.com/fweefwop"
+
+[[params.socialIcons]]
+icon = "fa-twitter"
+title = "Twitter"
+url = "http://twitter.com"
+
+[[params.socialIcons]]
+icon = "fa-discord"
+title = "Discord"
+url = "http://discord.com"
+
+[[params.socialIcons]]
+icon = "fa-facebook"
+title = "Facebook"
+url = "http://facebook.com"
+
+[menu]
+
+[[menu.main]]
+name = "Calendar"
+weight = 400
+identifier = "calendar"
+url = "https://calendar.google.com/calendar/u/0?cid=ZndlZWZ3b3BjeWJlckBnbWFpbC5jb20"
+
+
+[[menu.main]]
+name = "Starter Resources"
+weight = 250
+identifier = "resources"
+url = "/resources/"
+
+[[menu.main]]
+name = "Tech Writeups"
+weight = 300
+identifier = "writeups"
+url = "/writeups/"
+
+[[menu.main]]
+name = "Cyber Competitions"
+weight = 300
+identifier = "competitions"
+url = "/competitions/"
+
+[[menu.main]]
+name = "Club Activities"
+weight = 200
+identifier = "activities"
+url = "/activities/"
+
+[[menu.main]]
+name = "STEMBoost Workshops"
+weight = 260
+identifier = "workshops"
+url = "/stemboostworkshops/"
+
+[taxonomies]
+category = "categories"
+series = "series"
+tag = "tags"
+
+[markup]
+
+[markup.highlight]
+codeFences = true
+guessSyntax = false
+hl_Lines = ""
+lineNoStart = 1
+lineNos = false
+lineNumbersInTable = true
+noClasses = true # if false, you need to provide you own custom CSS
+style = "monokai"
+tabWidth = 4
