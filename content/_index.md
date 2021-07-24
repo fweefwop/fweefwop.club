@@ -9,5 +9,5 @@ Our goal is to keep an active interest in cyber-related fields and provide our c
               
 ## Meetings ##
                              
-Our weekly meetings are on **Sundays from 2:00-4:00pm online**.                                     
+Our weekly meetings are on **Sundays from 2:00-4:00pm (PST) online**.                                     
 Send us an email at **fweefwopcyber@gmail.com** to join. 
