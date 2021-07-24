@@ -94,7 +94,7 @@ run $(python -c 'print "\x41" * 508')
 ```                     
 
 ### Examine value @ address
-**x** means examine. It takes two arguments: location in memory and how to display that memory.
+**x** means examine. It takes two arguments: location in memory and how to display that memory.           
 **o** display in octal         
 **x** display in hex        
 **u** display in unsigned decimal        
