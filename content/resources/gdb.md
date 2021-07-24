@@ -75,17 +75,17 @@ list main
 ### examine register address
 ``` info register rip``` (or ```i r rip```)  
 
-example:
-```html
+example:   
+```
 gef➤  i r rip        
 rip            0x55555555513d      0x55555555513d <main+8>     
 ```      
 
 ### Get any address using print
 example:
-```html
-gef➤  print $rbp - 4
-$2 = (void *) 0x7fffffffe06c
+```
+gef➤  print $rbp - 4  
+$2 = (void *) 0x7fffffffe06c  
 ```           
 
 ### Run the overflow, seg fault
@@ -94,11 +94,11 @@ run $(python -c 'print "\x41" * 508')
 ```                     
 
 ### Examine value @ address
-```x``` means examine. It takes two arguments: location in memory and how to display that memory.
-```o``` display in octal         
-```x``` display in hex        
-```u``` display in unsigned decimal        
-```t``` display in binary         
+**x** means examine. It takes two arguments: location in memory and how to display that memory.
+**o** display in octal         
+**x** display in hex        
+**u** display in unsigned decimal        
+**t** display in binary         
 
 ```html 
 x/200x ($esp - 550)                 
