@@ -37,11 +37,6 @@ title = "Twitter"
 url = "http://twitter.com"
 
 [[params.socialIcons]]
-icon = "fa-discord"
-title = "Discord"
-url = "http://discord.com"
-
-[[params.socialIcons]]
 icon = "fa-facebook"
 title = "Facebook"
 url = "http://facebook.com"

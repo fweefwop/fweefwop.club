@@ -10,5 +10,5 @@ Our students are very active throughout the year and compete in multiple cyber c
 
 ### Past Records: 
 
-CTF competitions: [http://www.ctftime.org](http://www.ctftime.org)
+CTF competitions: [http://www.ctftime.org](https://ctftime.org/team/88161)
 
