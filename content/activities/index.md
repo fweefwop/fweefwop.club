@@ -7,7 +7,7 @@ title = "Club Classes and Labs"
 * [Linux Scripting and Intro to GDB](https://www.fweefwop.club/activities/)  
 Ricky's cyber series, including scripting and GDB.   
     * HW1: [Introduction](https://github.com/IBN-5100/somestuff/blob/main/hw0.md)   
-    * HW2: Linux scripting. (look for video link in our ***discord***, #Learning/good-times-ricky-corporation)         
+    * HW2: Linux scripting. (look for video link in our ***discord, #Learning/good-times-ricky-corporation***)         
     * HW3: Introduction to Brute Forcing Generic Buffer Overflow Challenges. (look for video link in ***discord***)     
 
 * [Web Programming](https://www.fweefwop.club/activities/)   

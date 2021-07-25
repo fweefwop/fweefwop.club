@@ -5,7 +5,7 @@ description = "Welcome to Fweefwop"
 +++   
 Established in 2019, Fweefwop started out as a student-run club that fostered our common passion for cybersecurity.       
                    
-Our goal is to keep an active interest in cyber-related fields and provide our community with the tools and awareness they need to stay safe and secure in our computer-dominated world. We want to provide a friendly environment that invites all interested to participate and increase their knowledge of computer and informatics by practicing skill and participating in competitions through club activities, including but not limited to picoCTF, CSAW, and BayCyber CTF.
+Our goal is to keep an active interest in cyber-related fields and provide our community with the tools and awareness they need to stay safe and secure in our computer-dominated world. We want to provide a friendly environment that invites all interested to participte and increase their knowledge of computer and informatics by practicing skill in club activities and competitions, including but not limited to picoCTF, CSAW, redPWN and other CTFs.
               
 ## Meetings ##
                              
