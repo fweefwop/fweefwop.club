@@ -51,10 +51,16 @@ url = "https://calendar.google.com/calendar/u/0?cid=ZndlZWZ3b3BjeWJlckBnbWFpbC5j
 
 
 [[menu.main]]
-name = "Starter Resources"
+name = "CTF Resources"
 weight = 250
 identifier = "resources"
 url = "/resources/"
+
+[[menu.main]]
+name = "Intro to Computer Science"
+weight = 220
+identifier = "csstarter"
+url = "/csstarter/"
 
 [[menu.main]]
 name = "Tech Writeups"
