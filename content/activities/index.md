@@ -3,6 +3,8 @@ title = "Ongoing Club Classes and Labs"
 +++
 #### Intermediate Level {{< icon fa-bell >}}  
 * [Reverse Engineering with Z3](https://www.fweefwop.club/activities/reverse_engineering_with_z3.pdf)  
+An introduction to Z3, a commonly used Python library for reverse engineering
+
 
 #### Beginner Level ####
 
