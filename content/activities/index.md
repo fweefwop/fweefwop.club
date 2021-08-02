@@ -35,4 +35,4 @@ For beginner level, start enroll in "Learning Paths". Go ahead with "COMPLETE BE
 * [Binary Exploitation](https://www.handsonsecurity.net/resources.html)     
 For club members who like to strengthen their binary exploitation skills. 
 
-
+* [Reverse Engineering with Z3](https://www.fweefwop.club/activities/reverse_engineering_with_z3.pdf)
