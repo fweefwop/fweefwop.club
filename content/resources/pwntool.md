@@ -4,7 +4,7 @@ date = "2020-11-08"
 weight = 700
 +++
 
-***pwntools*** is a python CTF binary exploit development library. If you are not yet familiar with it, please take a look at [Glovanni Lagoria's slices here](https://www.fweefwop.club/resource/exploitation_slides.pdf) before continue. 
+***pwntools*** is a python CTF binary exploit development library. If you are not yet familiar with it, please take a look at [Glovanni Lagoria's slices here](https://www.fweefwop.club/resources/exploitation_slides.pdf) before continue. 
 
 #### Using pwntools to create a template to binary exploit    
      
