@@ -4,7 +4,9 @@ date = "2020-11-08"
 weight = 700
 +++
 
-### Using pwntools to create a template to binary exploit ###    
+***pwntools*** is a python CTF binary exploit development library. If you are not yet familiar with it, please take a look at [Glovanni Lagoria's slices here](https://www.fweefwop.club/resource/exploitation_slides.pdf) before continue. 
+
+#### Using pwntools to create a template to binary exploit    
      
 For demostration purpose, we use ***vuln*** as binary, ***rhost = 127.0.0.1, rport = 1234***
 To generate exploit template:   
