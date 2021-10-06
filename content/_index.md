@@ -1,5 +1,4 @@
 +++
-author = "Arthur Perng"
 title = "Welcome to Fweefwop"
 description = "Welcome to Fweefwop"
 +++   
