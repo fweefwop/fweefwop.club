@@ -73,6 +73,12 @@ identifier = "competitions"
 url = "/competitions/"
 
 [[menu.main]]
+name = "About"
+weight = 380
+identifier = "About"
+url = "/about/"
+
+[[menu.main]]
 name = "Club Activities"
 weight = 200
 identifier = "activities"
