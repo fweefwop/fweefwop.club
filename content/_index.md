@@ -4,15 +4,16 @@ description = "Welcome to Fweefwop"
 +++   
 
 
-## CTF Information
-We are hosting FweefwopCTF from October 22-31. 
+# FweefwopCTF 2021
+### Held in collaboration with STEMBoost
+Welcome to FweefwopCTF! FweefwopCTF starts **October 22, 2021** and will end on **October 31, 2021**. It will be held online. 
 
 #### What is a CTF?
 A CTF (“capture-the-flag”) competition is a type of cybersecurity competition where contenders can solve problems and answer questions in exchange for “flags.” Flags are pieces of text that can be submitted for points, and may look something like “flag{this_is_a_flag}.”
 #### When is it?
-FweefwopCTF will be held October 22-31
+FweefwopCTF will be held October 22-31, 2021.
 #### How can I join?
 Register here: http://ctf.fweefwop.club/register. 
 #### What are the prizes?
 TBA
-
+<br/> <br/> If you have any questions or concerns, please contact us at fweefwop@gmail.com.
