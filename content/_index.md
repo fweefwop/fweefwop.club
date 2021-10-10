@@ -9,7 +9,7 @@ description = "Welcome to Fweefwop"
 Welcome to FweefwopCTF! FweefwopCTF starts **October 22, 2021** and will end on **October 31, 2021**. It will be held online. 
 
 #### What is a CTF?
-A CTF (“capture-the-flag”) competition is a type of cybersecurity competition where contenders can solve problems and answer questions in exchange for “flags.” Flags are pieces of text that can be submitted for points, and may look something like “flag{this_is_a_flag}.”
+A CTF (“capture-the-flag”) competition is a type of cybersecurity competition where contenders can solve problems and answer questions in exchange for “flags.” Flags are pieces of text that can be submitted for points, and look something like “fwop{this_is_a_flag}.”
 #### When is it?
 FweefwopCTF will be held October 22-31, 2021.
 #### How can I join?
