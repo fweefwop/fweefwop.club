@@ -16,4 +16,4 @@ FweefwopCTF will be held October 22-31, 2021.
 Register here: http://ctf.fweefwop.club/register. 
 #### What are the prizes?
 TBA
-<br/> <br/> If you have any questions or concerns, please contact us at fweefwop@gmail.com.
+<br/> <br/> If you have any questions or concerns, please contact us at fweefwopcyber@gmail.com.
