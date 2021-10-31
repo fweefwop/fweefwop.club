@@ -7,27 +7,43 @@ description = "Welcome to Fweefwop"
 
 Fweefwop CTF 2021 has ended. Thanks for you participation!
 
-Thanks for [ctfd.io](https://ctfd.io/)'s generous support, we will keep our server up after this CTF. New problems will be added to time to time.    
+Thanks for [ctfd.io](https://ctfd.io/)'s generous support, we will keep our [ctf server](https://ctf.fweefwop.club) up after this CTF. New problems will be added to time to time.    
 
-This CTF is as much as an endeavor to us as to you. We have met so many people online all over the world, from Spain to Korea, which blows our mind. Thank you!
+This CTF is as much as an endeavor to us as to you. We had more than 500 people registered. Many people joined online all over the world, from Spain to Korea, which blows our mind. Thank you!
 
 #### Acknowledgement: 
 Thanks for the following cyber security content writers:     
-Arthur Perng (RE, Linux, OSINT),Eric Ju(Crypto, Forensics),Joshua Zhang(Web),Eli Stoyanova(Web),Anish Bayyapu(Cryto, OSINT), Brain Deng(Crypto, Forensics), Ryan Tan(Forensics)         
+Arthur Perng (RE, Linux, OSINT)     
+Eric Ju(Crypto, Forensics)      
+Joshua Zhang(Web)     
+Eli Stoyanova(Web)    
+Anish Bayyapu(Cryto, OSINT)     
+Brain Deng(Crypto, Forensics)    
+Ryan Tan(Forensics)         
 
-Special Thanks to Michael Smith for his help in infrastructure system design.     
+Special Thanks to **Michael Smith** for his help in infrastructure system design.     
                                       
 ---------------------------
 <img src="assets/FweefwopCTF-1.png" style="height:120px; width:85px;" />                   
 
-### Held in collaboration with STEMBoost
+### Held in collaboration with STEMBoost ###
 Welcome to FweefwopCTF! FweefwopCTF starts **October 22, 2021** and will end on **October 31, 2021**. It will be held online. 
 
-#### What is a CTF?
+#### What is a CTF? ####
 A CTF (“capture-the-flag”) competition is a type of cybersecurity competition where contenders can solve problems and answer questions in exchange for “flags.” Flags are pieces of text that can be submitted for points, and look something like “fwop{this_is_a_flag}.”
-#### When is it?
+#### When is it? ####
 FweefwopCTF will be held October 22-31, 2021.
-#### How can I join?
-Register here: http://ctf.fweefwop.club/register. 
+#### How can I join? ####
+Register here: http://ctf.fweefwop.club/register.         
 
-<br/> <br/> If you have any questions or concerns, please contact us at fweefwopcyber@gmail.com.
+-----------------------------              
+### About US  
+
+Established in 2019, Fweefwop started out as a student-run club that fostered our common passion for cybersecurity.       
+                   
+Our goal is to keep an active interest in cyber-related fields and provide our community with the tools and awareness they need to stay safe and secure in our computer-dominated world. We want to provide a friendly environment that invites all interested to participte and increase their knowledge of computer and informatics by practicing skill in club activities and competitions, including but not limited to picoCTF, CSAW, redPWN and other CTFs.
+
+#### Meetings ####
+                             
+Our weekly meetings are on **Sundays from 2:00-4:00pm (PST) online**.                                     
+Send us an email at **fweefwopcyber@gmail.com** to join. 
