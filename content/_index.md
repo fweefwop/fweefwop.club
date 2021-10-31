@@ -9,17 +9,17 @@ Fweefwop CTF 2021 has ended. Thanks for you participation!
 
 Thanks for [ctfd.io](https://ctfd.io/)'s generous support, we will keep our [ctf server](https://ctf.fweefwop.club) up after this CTF. New problems will be added to time to time.    
 
-This CTF is as much as an endeavor to us as to you. We had more than 500 people registered. Many people joined online all over the world, from Spain to Korea, which blows our mind. Thank you!
+This CTF is as much as an endeavor to us as to you. We had more than 500 people registered. Many people joined online all over the world, from Spain, Ireland, Russia, Banjladesh, India, China to Korea, which blows our mind. Thank you!
 
 #### Credit: 
 Thanks for the following cyber security content writers:     
 **Arthur Perng** (RE, Linux, OSINT)     
-**Eric Ju**(Crypto, Forensics)      
-**Joshua Zhang**(Web)     
-**Eli Stoyanova**(Web)    
-**Anish Bayyapu**(Cryto, OSINT)     
-**Brain Deng**(Crypto, Forensics)    
-**Ryan Tan**(Forensics)         
+**Eric Ju** (Crypto, Forensics)      
+**Joshua Zhang** (Web)     
+**Eli Stoyanova** (Web)    
+**Anish Bayyapu** (Cryto, OSINT)     
+**Brain Deng** (Crypto, Forensics)    
+**Ryan Tan** (Forensics)         
 
 Special Thanks to **Michael Smith** for his help in infrastructure system design.     
                                       
