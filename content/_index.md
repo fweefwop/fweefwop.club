@@ -2,10 +2,20 @@
 title = "Welcome to Fweefwop"
 description = "Welcome to Fweefwop"
 +++   
-
-<img src="assets/FweefwopCTF-1.png" style="height:800px; width:600px;" />
-
 # FweefwopCTF 2021
+### Update
+
+Fweefwop CTF 2021 has ended. Thanks for you participation!
+
+Thanks for [ctfd.io](https://ctfd.io/)'s generous support, we will keep our server up after this CTF. New problems will be added to time to time.    
+
+This CTF is as much as an endeavor to us as to you. We have met so many people online all over the world, from Spain to Korea, which blows our mind. Thank you!
+
+               
+             
+---------------------------
+<img src="assets/FweefwopCTF-1.png" style="height:120px; width:85px;" />                   
+
 ### Held in collaboration with STEMBoost
 Welcome to FweefwopCTF! FweefwopCTF starts **October 22, 2021** and will end on **October 31, 2021**. It will be held online. 
 
