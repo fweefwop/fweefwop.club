@@ -3,7 +3,7 @@ title = "Welcome to Fweefwop"
 description = "Welcome to Fweefwop"
 +++   
 # FweefwopCTF 2021
-### :pushpin: Update
+### Update
 
 Fweefwop CTF 2021 has ended. Thanks for you participation!
 
