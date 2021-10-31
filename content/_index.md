@@ -11,8 +11,12 @@ Thanks for [ctfd.io](https://ctfd.io/)'s generous support, we will keep our serv
 
 This CTF is as much as an endeavor to us as to you. We have met so many people online all over the world, from Spain to Korea, which blows our mind. Thank you!
 
-               
-             
+#### Acknowledgement: 
+Thanks for the following cyber security content writers:     
+Arthur Perng (RE, Linux, OSINT),Eric Ju(Crypto, Forensics),Joshua Zhang(Web),Eli Stoyanova(Web),Anish Bayyapu(Cryto, OSINT), Brain Deng(Crypto, Forensics), Ryan Tan(Forensics)         
+
+Special Thanks to Michael Smith for his help in infrastructure system design.     
+                                      
 ---------------------------
 <img src="assets/FweefwopCTF-1.png" style="height:120px; width:85px;" />                   
 
