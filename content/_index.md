@@ -9,7 +9,7 @@ Fweefwop CTF 2021 has ended. Thanks for you participation!
 
 Thanks to [ctfd.io](https://ctfd.io/)'s generous support, we will keep our [ctf server](https://ctf.fweefwop.club) up after this CTF. New problems will be added to time to time.    
 
-This CTF is as much as an endeavor to us as to you. We had more than 500 people registered. Many people joined online from all over the world, from Spain, Ireland, Russia, Bangladesh, India, China to Korea, which blows our mind. Thank you!
+This CTF is as much of an endeavor to us as it is to you. When we started this competition, we were only expecting a few people to sign up, mostly locals. But you exceeded our every expectation! We had more than 500 people register, which is incredible. It's amazing to see how many people are dedicated to the study of cybersecurity and willing to share and expand their knowledge. Many people joined online from all over the world, including Spain, Ireland, Russia, Bangladesh, India, China, and Korea, which blows our mind. Thank you!   
 
 #### Credits: 
 Thanks for the following cyber security content writers:     
