@@ -7,7 +7,7 @@ description = "Welcome to Fweefwop"
 
 Fweefwop CTF 2021 has ended. Thanks for you participation!
 
-Thanks for [ctfd.io](https://ctfd.io/)'s generous support, we will keep our [ctf server](https://ctf.fweefwop.club) up after this CTF. New problems will be added to time to time.    
+Thanks to [ctfd.io](https://ctfd.io/)'s generous support, we will keep our [ctf server](https://ctf.fweefwop.club) up after this CTF. New problems will be added to time to time.    
 
 This CTF is as much as an endeavor to us as to you. We had more than 500 people registered. Many people joined online from all over the world, from Spain, Ireland, Russia, Bangladesh, India, China to Korea, which blows our mind. Thank you!
 
