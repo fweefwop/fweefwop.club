@@ -11,7 +11,7 @@ Thanks for [ctfd.io](https://ctfd.io/)'s generous support, we will keep our [ctf
 
 This CTF is as much as an endeavor to us as to you. We had more than 500 people registered. Many people joined online from all over the world, from Spain, Ireland, Russia, Banjladesh, India, China to Korea, which blows our mind. Thank you!
 
-#### Credit: 
+#### Credits: 
 Thanks for the following cyber security content writers:     
 **Arthur Perng** (RE, Linux, OSINT)     
 **Eric Ju** (Crypto, Forensics)      
