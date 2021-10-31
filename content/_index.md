@@ -17,7 +17,7 @@ Thanks for the following cyber security content writers:
 **Eric Ju** (Crypto, Forensics)      
 **Joshua Zhang** (Web)     
 **Eli Stoyanova** (Web)    
-**Anish Bayyapu** (Cryto, OSINT)     
+**Anish Bayyapu** (Crypto, OSINT)     
 **Brain Deng** (Crypto, Forensics)    
 **Ryan Tan** (Forensics)         
 
