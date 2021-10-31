@@ -13,13 +13,13 @@ This CTF is as much as an endeavor to us as to you. We had more than 500 people 
 
 #### Credit: 
 Thanks for the following cyber security content writers:     
-Arthur Perng (RE, Linux, OSINT)     
-Eric Ju(Crypto, Forensics)      
-Joshua Zhang(Web)     
-Eli Stoyanova(Web)    
-Anish Bayyapu(Cryto, OSINT)     
-Brain Deng(Crypto, Forensics)    
-Ryan Tan(Forensics)         
+**Arthur Perng** (RE, Linux, OSINT)     
+**Eric Ju**(Crypto, Forensics)      
+**Joshua Zhang**(Web)     
+**Eli Stoyanova**(Web)    
+**Anish Bayyapu**(Cryto, OSINT)     
+**Brain Deng**(Crypto, Forensics)    
+**Ryan Tan**(Forensics)         
 
 Special Thanks to **Michael Smith** for his help in infrastructure system design.     
                                       
