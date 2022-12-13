@@ -8,7 +8,7 @@ description = "Welcome to Fweefwop"
 NoQRTR CTF is hosted by [@HackersPacific](https://twitter.com/HackersPacific) [Pacific Hackers](https://www.phack.org/) Conferences!       
 
 **Team Members:** Arthur Perng, Joshua Zhang, Ryan Tan, Brian Deng, Andrea Perng      
-<img src="https://www.fweefwop.club/assets/NoQRTR.png" style="height:500px; width:500px;" />(https://twitter.com/rodsoto)
+![]<img src="https://www.fweefwop.club/assets/NoQRTR.png" style="height:500px; width:500px;" />(https://twitter.com/rodsoto)
 
 --------------------------------
 **Fweefwop CTF 2021** has ended. Thanks for you participation!
@@ -30,7 +30,7 @@ Thanks for the following cyber security content writers:
 Special Thanks to **Michael Smith** for his help in infrastructure system design.     
                                       
 ---------------------------
-<img src="assets/FweefwopCTF-1.png" style="height:120px; width:85px;" />                   
+![]<img src="assets/FweefwopCTF-1.png" style="height:120px; width:85px;" />                   
 
 ### Held in collaboration with STEMBoost ###
 Welcome to FweefwopCTF! FweefwopCTF starts **October 22, 2021** and will end on **October 31, 2021**. It will be held online. 
