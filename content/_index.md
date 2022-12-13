@@ -3,8 +3,10 @@ title = "Welcome to Fweefwop"
 description = "Welcome to Fweefwop"
 +++   
 ### {{< icon fa-bell >}} Update
+--------------------------------
+**Congradulations to our Fweefwop team for winning NoQRTR CTF!** 
+NoQRTR CTF is hosted by [@HackersPacific](https://twitter.com/HackersPacific) [Pacific Hackers](https://www.phack.org/) Conferences!       
 
-**Congradulations to our Fweefwop team for winning NoQRTR CTF** hosted by [@HackersPacific](https://twitter.com/HackersPacific) [Pacific Hackers](https://www.phack.org/) Conferences!      
 **Team Members:** Arthur Perng, Joshua Zhang, Ryan Tan, Brian Deng, Andrea Perng      
 [<img src="assets/NoQRTR.png" style="height:500px; width:500px;" />](https://twitter.com/rodsoto)
 
