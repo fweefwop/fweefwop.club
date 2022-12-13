@@ -4,7 +4,7 @@ description = "Welcome to Fweefwop"
 +++   
 ### {{< icon fa-bell >}} Update
 --------------------------------
-**Congradulations to our Fweefwop team for winning NoQRTR CTF!**     
+**Congratulations to our Fweefwop team for winning NoQRTR CTF!**     
 hosted by [Pacific Hackers Conference](https://www.phack.org/)          
 
 **Team Members:** Arthur Perng, Joshua Zhang, Ryan Tan, Brian Deng, Andrea Perng    
