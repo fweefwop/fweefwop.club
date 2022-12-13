@@ -2,10 +2,13 @@
 title = "Welcome to Fweefwop"
 description = "Welcome to Fweefwop"
 +++   
-# FweefwopCTF 2021
 ### {{< icon fa-bell >}} Update
+Placed **1st Place** at **NoQRTR CTF** hosted by [@HackersPacific](https://twitter.com/HackersPacific) [Pacific Hackers](https://www.phack.org/) Conferences!
+<img src="assets/NoQRTR.png" style="height:200px; width:200px;" />(https://twitter.com/rodsoto)
 
-Fweefwop CTF 2021 has ended. Thanks for you participation!
+**Team Members: Arthur Perng, Joshua Zhang, Ryan Tan, Brian Deng, Andrea Perng 
+--------------------------------
+**Fweefwop CTF 2021** has ended. Thanks for you participation!
 
 Thanks to [ctfd.io](https://ctfd.io/)'s generous support, we will keep our [ctf server](https://ctf.fweefwop.club) up after this CTF. New problems will be added from time to time.    
 
