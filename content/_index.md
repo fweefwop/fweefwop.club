@@ -7,9 +7,9 @@ description = "Welcome to Fweefwop"
 **Congradulations to our Fweefwop team for winning NoQRTR CTF!**     
 NoQRTR CTF is hosted by [@HackersPacific](https://twitter.com/HackersPacific) [Pacific Hackers](https://www.phack.org/) Conferences!       
 
-**Team Members:** Arthur Perng, Joshua Zhang, Ryan Tan, Brian Deng, Andrea Perng      
-![image](https://www.fweefwop.club/assets/NoQRTR.png)    
-(https://twitter.com/rodsoto)
+**Team Members:** Arthur Perng, Joshua Zhang, Ryan Tan, Brian Deng, Andrea Perng    
+   
+![image](https://www.fweefwop.club/assets/NoQRTR.png)   (https://twitter.com/rodsoto)
 
 --------------------------------
 **Fweefwop CTF 2021** has ended. Thanks for you participation!
