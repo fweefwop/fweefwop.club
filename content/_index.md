@@ -9,7 +9,7 @@ NoQRTR CTF is hosted by [@HackersPacific](https://twitter.com/HackersPacific) [P
 
 **Team Members:** Arthur Perng, Joshua Zhang, Ryan Tan, Brian Deng, Andrea Perng      
 ![image](https://www.fweefwop.club/assets/NoQRTR.png)    
-<img src="https://www.fweefwop.club/assets/NoQRTR.png" style="height:500px; width:500px;" />(https://twitter.com/rodsoto)
+(https://twitter.com/rodsoto)
 
 --------------------------------
 **Fweefwop CTF 2021** has ended. Thanks for you participation!
